@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|c:\\cp - class exercises\\jebifinal\\monogamefinalproject\\monogamefinalproject\\spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|solutionrelative:monogamefinalproject\\spaceinvaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|c:\\cp - class exercises\\jebifinal\\monogamefinalproject\\monogamefinalproject\\modules\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|solutionrelative:monogamefinalproject\\modules\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|c:\\cp - class exercises\\jebifinal\\monogamefinalproject\\monogamefinalproject\\modules\\global\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|solutionrelative:monogamefinalproject\\modules\\global\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|c:\\cp - class exercises\\jebifinal\\monogamefinalproject\\monogamefinalproject\\modules\\sprites\\enemysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|solutionrelative:monogamefinalproject\\modules\\sprites\\enemysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|c:\\cp - class exercises\\jebifinal\\monogamefinalproject\\monogamefinalproject\\modules\\sprites\\playersprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|solutionrelative:monogamefinalproject\\modules\\sprites\\playersprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|c:\\cp - class exercises\\jebifinal\\monogamefinalproject\\monogamefinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|solutionrelative:monogamefinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|c:\\cp - class exercises\\jebifinal\\monogamefinalproject\\monogamefinalproject\\modules\\gamecontrol\\tmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF5C6A2-E6C8-48A3-92B7-C1BDE7B6DC92}|MonogameFinalProject\\MonogameFinalProject.csproj|solutionrelative:monogamefinalproject\\modules\\gamecontrol\\tmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "MonogameFinalProject\\Program.cs",
+              "ToolTip": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Program.cs",
+              "RelativeToolTip": "MonogameFinalProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:37:19.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TManager.cs",
+              "DocumentMoniker": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\GameControl\\TManager.cs",
+              "RelativeDocumentMoniker": "MonogameFinalProject\\Modules\\GameControl\\TManager.cs",
+              "ToolTip": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\GameControl\\TManager.cs",
+              "RelativeToolTip": "MonogameFinalProject\\Modules\\GameControl\\TManager.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:38:34.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerSprite.cs",
+              "DocumentMoniker": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Sprites\\PlayerSprite.cs",
+              "RelativeDocumentMoniker": "MonogameFinalProject\\Modules\\Sprites\\PlayerSprite.cs",
+              "ToolTip": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Sprites\\PlayerSprite.cs",
+              "RelativeToolTip": "MonogameFinalProject\\Modules\\Sprites\\PlayerSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:19:31.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemySprite.cs",
+              "DocumentMoniker": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Sprites\\EnemySprite.cs",
+              "RelativeDocumentMoniker": "MonogameFinalProject\\Modules\\Sprites\\EnemySprite.cs",
+              "ToolTip": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Sprites\\EnemySprite.cs",
+              "RelativeToolTip": "MonogameFinalProject\\Modules\\Sprites\\EnemySprite.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:29:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Global\\Global.cs",
+              "RelativeDocumentMoniker": "MonogameFinalProject\\Modules\\Global\\Global.cs",
+              "ToolTip": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Global\\Global.cs",
+              "RelativeToolTip": "MonogameFinalProject\\Modules\\Global\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:13:11.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Sprites\\Sprite.cs",
+              "RelativeDocumentMoniker": "MonogameFinalProject\\Modules\\Sprites\\Sprite.cs",
+              "ToolTip": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\Modules\\Sprites\\Sprite.cs",
+              "RelativeToolTip": "MonogameFinalProject\\Modules\\Sprites\\Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:05:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpaceInvaders.cs",
+              "DocumentMoniker": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\SpaceInvaders.cs",
+              "RelativeDocumentMoniker": "MonogameFinalProject\\SpaceInvaders.cs",
+              "ToolTip": "C:\\CP - Class exercises\\JEBIFinal\\MonogameFinalProject\\MonogameFinalProject\\SpaceInvaders.cs",
+              "RelativeToolTip": "MonogameFinalProject\\SpaceInvaders.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAYwO8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:07:22.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

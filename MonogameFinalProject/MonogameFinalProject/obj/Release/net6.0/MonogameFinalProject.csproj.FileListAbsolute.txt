@@ -1,0 +1,82 @@
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\ArrowLeft.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\ArrowRight.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\ArrowUp.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Audio\bomb.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Audio\Zodik - Future Travel.ogg
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Audio\Zodik - Future Travel.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\bullet.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\PlayerStandard.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Spacebit.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\spaceshipEnemy.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Tab.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Trophy.xnb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.exe
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.deps.json
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.runtimeconfig.json
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.pdb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonoGame.Framework.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.csproj.AssemblyReference.cache
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.AssemblyInfoInputs.cache
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.AssemblyInfo.cs
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\Monogame.D7D29A70.Up2Date
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\refint\MonogameFinalProject.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.pdb
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.genruntimeconfig.cache
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\ref\MonogameFinalProject.dll
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.dll.manifest
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.application
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.dll.manifest
+C:\Users\xxpre\OneDrive\Área de Trabalho\Fall 2024\PROG2370 - Game Prog Data Structures\FINAL\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.application
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\ArrowLeft.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\ArrowRight.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\ArrowUp.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Audio\bomb.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Audio\Zodik - Future Travel.ogg
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Audio\Zodik - Future Travel.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\bullet.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\PlayerStandard.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Spacebit.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\spaceshipEnemy.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Tab.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\Content\Trophy.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.exe
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.deps.json
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.runtimeconfig.json
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.pdb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonoGame.Framework.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.csproj.AssemblyReference.cache
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.AssemblyInfoInputs.cache
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.AssemblyInfo.cs
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.csproj.CoreCompileInputs.cache
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\Monogame.D7D29A70.Up2Date
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\refint\MonogameFinalProject.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.pdb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.genruntimeconfig.cache
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\ref\MonogameFinalProject.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.dll.manifest
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\MonogameFinalProject.application
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.dll.manifest
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\obj\Release\net6.0\MonogameFinalProject.application

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/6.png</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/ArrowLeft.png</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/ArrowRight.png</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/ArrowUp.png</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/Audio/bomb.wav</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/Audio/Zodik - Future Travel.ogg</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/bullet.png</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/Spacebit.spritefont</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/spaceship_enemy_red.png</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/Tab.png</File>
+    <File>C:/CP - Class exercises/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/Trophy.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>PlayerStandard.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>spaceshipEnemy.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

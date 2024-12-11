@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/xxpre/OneDrive/Área de Trabalho/Fall 2024/PROG2370 - Game Prog Data Structures/FINAL/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/Audio/Zodik - Future Travel.ogg</SourceFile>
+  <SourceTime>2024-12-10T14:38:56.1504148-05:00</SourceTime>
+  <DestFile>C:/Users/xxpre/OneDrive/Área de Trabalho/Fall 2024/PROG2370 - Game Prog Data Structures/FINAL/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/bin/DesktopGL/Audio/Zodik - Future Travel.xnb</DestFile>
+  <DestTime>2024-12-10T17:57:42.5445767-05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/xxpre/OneDrive/Área de Trabalho/Fall 2024/PROG2370 - Game Prog Data Structures/FINAL/JEBIFinal/MonogameFinalProject/MonogameFinalProject/Content/bin/DesktopGL/Audio/Zodik - Future Travel.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

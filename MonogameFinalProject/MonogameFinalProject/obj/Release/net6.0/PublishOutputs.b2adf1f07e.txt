@@ -1,0 +1,26 @@
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\MonogameFinalProject.exe
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/ArrowLeft.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/ArrowRight.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/ArrowUp.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/Audio\bomb.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/Audio\Zodik - Future Travel.ogg
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/Audio\Zodik - Future Travel.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/bullet.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/PlayerStandard.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/Spacebit.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/spaceshipEnemy.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/Tab.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\Content/Trophy.xnb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\MonogameFinalProject.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\MonogameFinalProject.deps.json
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\MonogameFinalProject.runtimeconfig.json
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\MonogameFinalProject.pdb
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\MonoGame.Framework.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\linux-x64\native\libopenal.so.1
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\osx\native\libSDL2.dylib
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\osx\native\libopenal.1.dylib
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\win-x64\native\SDL2.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\win-x64\native\soft_oal.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\win-x86\native\SDL2.dll
+C:\CP - Class exercises\JEBIFinal\MonogameFinalProject\MonogameFinalProject\bin\Release\net6.0\app.publish\runtimes\win-x86\native\soft_oal.dll
